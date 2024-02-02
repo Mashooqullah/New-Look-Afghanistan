@@ -1,2 +1,1 @@
-# New-Look-Afghanistan
-Task #1
+PRODIGY_WD_01
